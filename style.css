@@ -1,0 +1,78 @@
+body{
+
+    font-family: Georgia, sans-serif;
+    background-color:DimGray;
+    color: Lavender;
+
+}
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+}
+
+h3 {
+    color: SlateGray;
+    font-family: Georgia, sans-serif;
+    font-size: 170%;
+    text-align: center;
+    text-shadow: -5px 5px 3px DarkGrey;
+
+}
+
+p{
+    text-align: center;
+    font: italic bold 150% Georgia, serif;
+
+}
+
+#welcome\ info{
+
+    border-width:6px;
+    border-style:dotted solid double dashed;
+
+}
+
+#cube1{
+
+    border-width:6px;
+    border-style:outset;
+
+}
+
+#cube2{
+
+    border-width:6px;
+    border-style:groove;
+
+
+}
+
+#cube3{
+
+    border-width:6px;
+    border-style:inset;
+
+}
+
+#cube4{
+
+    border-width:6px;
+    border-style:outset;
+
+}
+
+#cube5{
+
+    border-width:6px;
+    border-style:groove;
+
+}
+
+#cube6{
+
+    border-width:6px;
+    border-style:inset;
+
+}
